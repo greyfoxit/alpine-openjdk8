@@ -8,7 +8,7 @@ image with [OpenJDK 8](http://openjdk.java.net)
 ## Content &nbsp;/
 
 - Alpine Linux ( **3.6** ) with GNU C (glibc)
-- OpenJDK ( **8u131** )
+- OpenJDK ( **8u151** )
 
 ## Use this &nbsp;>
 
